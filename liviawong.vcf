@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:wong;livia;;;
+FN:livia wong
+ORG:
+ADR;TYPE=WORK:
+TITLE:it
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:
+URL;TYPE=Digital Business Card:
+URL:mazars.com.sg
+URL;TYPE=Website:mazars.com.sg
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100533165
+END:VCARD
